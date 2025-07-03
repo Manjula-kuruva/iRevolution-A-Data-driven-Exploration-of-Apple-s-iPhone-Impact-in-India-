@@ -64,6 +64,8 @@ This project is suitable for:
 - SmartInternz / SmartBridge internship reports
 
 ---
+Although this project was assigned to a team .I independently carried out the entire project due to lack of participation from other team members .
+This project is an individual effort .Despite being part of a group,I completed all research,data preparation and reporting on my own.
 
 ## 📧 Contact
 **Manjula kuruva**  
